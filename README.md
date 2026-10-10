@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mouhamed-rayen-dhaouadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dhoaudirayen99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:dhouadirayen99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to-Internships_/_PFE-2ea44f?style=flat-square" alt="Open to internships" />
 </p>
 
@@ -48,7 +48,7 @@ Threat intelligence platform for banking SOC teams: IOC scanning, local AI-gener
 
 `Django` `Python` `Ollama` `RBAC` `Tailwind CSS`
 
-#### ⚡ [KineticPulse](https://github.com/Mouhamed-Rayen-Dhaouadi/KineticPulse)
+#### ⚡ [KineticPulse](https://github.com/Mouhamed-Rayen-Dhaouadi/Kinetic-pulse)
 JavaFX desktop application for user management and e-commerce infrastructure, with API integrations.
 
 `Java` `JavaFX` `REST APIs`
